@@ -20,6 +20,32 @@
   asi mismo al terminar el programa nos dice si deseamos convertir a otra moneda el cual nos permite volver a ejegir caso contrario se termina el programa.
   
   ![image](https://user-images.githubusercontent.com/119012163/229404345-dabda68f-8224-4cee-a72d-55fa57f29f13.png)
+  
+  En el caso de elegir el convertidor de temperatura, tiene la misma interfaz de operacion que el convertidor de moneda.
+  
+  ![image](https://user-images.githubusercontent.com/119012163/229404562-4fb9fbac-5074-4cd8-92c8-4c3ecaa856c3.png)
+
+  Asi mismo elegimos el tipo de conversion que se desea realizar, luego nos lleva a un cuadro para insertar el valor y nos muestra la conversion.
+  
+  ![image](https://user-images.githubusercontent.com/119012163/229404849-18b716ee-a565-42ac-814f-11747a7b9a4c.png)
+
+  ![image](https://user-images.githubusercontent.com/119012163/229404858-29bd7469-511c-4068-ba32-3636790e1444.png)
+
+  luego podemos volver a convertir a otra temperatura o terminar el programa donde nos muestra un mensaje final.
+  
+  ![image](https://user-images.githubusercontent.com/119012163/229405057-a0f1f067-ca22-4d16-8d42-cea4bcb4833f.png)
+
+  ![image](https://user-images.githubusercontent.com/119012163/229405066-08b0863f-d0ef-47b6-a6dc-7b6c56a4edec.png)
+
+  Esta seria el uso de el programa, para su desarrollo usamos los paquetes.
+  javax.swing.JComboBox.
+  javax.swing.JOptionPane.
+  
+  Es un programa con una interfaz sencilla, facil de usar y familiarizarce con el fin de dar un buen rendimiento.
+  
+  **COMO INICIALIZAR EL PROGAMA Y SU EQUIPO LOCAL**
+  
+  
 
 
 
