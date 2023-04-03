@@ -38,13 +38,16 @@
   ![image](https://user-images.githubusercontent.com/119012163/229405066-08b0863f-d0ef-47b6-a6dc-7b6c56a4edec.png)
 
   Esta seria el uso de el programa, para su desarrollo usamos los paquetes.
+  
   javax.swing.JComboBox.
+  
   javax.swing.JOptionPane.
   
   Es un programa con una interfaz sencilla, facil de usar y familiarizarce con el fin de dar un buen rendimiento.
   
   **COMO INICIALIZAR EL PROGAMA Y SU EQUIPO LOCAL**
   
+  1. descargamos el archivo de nuestro repositorio y luego debemos de 
   
 
 
