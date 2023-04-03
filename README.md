@@ -45,12 +45,4 @@
   
   Es un programa con una interfaz sencilla, facil de usar y familiarizarce con el fin de dar un buen rendimiento.
   
-  **COMO INICIALIZAR EL PROGAMA Y SU EQUIPO LOCAL**
-  
-  1. descargamos el archivo de nuestro repositorio y luego debemos de 
-  
 
-
-
-
-<a href="">visualiza mi repositorio</a>
